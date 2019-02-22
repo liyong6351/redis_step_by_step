@@ -1,6 +1,6 @@
 # Redis
 
-[TOC]
+
 
 ## Admin
 
