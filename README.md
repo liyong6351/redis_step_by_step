@@ -1,3 +1,7 @@
-# Initial page
+# Redis
 
-## this is the test page
+[toc]
+
+## Admin
+
+### redis-cli
