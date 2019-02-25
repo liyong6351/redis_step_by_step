@@ -1,28 +1,19 @@
 <!-- TOC -->
 
-- [1. Redis](#1-redis)
-  - [1.1. Admin](#11-admin)
-    - [1.1.1. redis-cli](#111-redis-cli)
+- [Redis](#redis)
+  - [1. <a href="document/install.md">install</a>](#1-a-href%22documentinstallmd%22installa)
+  - [2. <a href="document/sbs_admin_redis-cli.md">redis-cli</a>](#2-a-href%22documentsbsadminredis-climd%22redis-clia)
+  - [3. <a href="document/sbs_admin_replication.md">redis-replication</a>](#3-a-href%22documentsbsadminreplicationmd%22redis-replicationa)
+  - [4. <a href="document/sbs_admin_persistence.md">redis-persistence</a>](#4-a-href%22documentsbsadminpersistencemd%22redis-persistencea)
 
 <!-- /TOC -->
 
-# 1. Redis
+# Redis
 
-## 1.1. Admin
+## 1. <a href="document/install.md">install</a>
 
-### 1.1.1. redis-cli
-`* gaga
-* gaga
-* gaga
-* gaga
-* gaga
-* gaga
-* gaga
-* gaga
-* gaga
-* gaga
-* gaga
-* gaga
-* gaga
-* gaga
-* gaga
+## 2. <a href="document/sbs_admin_redis-cli.md">redis-cli</a>
+
+## 3. <a href="document/sbs_admin_replication.md">redis-replication</a>
+
+## 4. <a href="document/sbs_admin_persistence.md">redis-persistence</a>

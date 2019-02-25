@@ -1,6 +1,27 @@
-# Redis Admin
+<a href="../README.md">README</a>
 
-[toc]
+<!-- TOC -->
+
+- [Redis Admin](#redis-admin)
+  - [redis-cli](#redis-cli)
+    - [命令航使用模式](#%E5%91%BD%E4%BB%A4%E8%88%AA%E4%BD%BF%E7%94%A8%E6%A8%A1%E5%BC%8F)
+      - [直接使用参数模式](#%E7%9B%B4%E6%8E%A5%E4%BD%BF%E7%94%A8%E5%8F%82%E6%95%B0%E6%A8%A1%E5%BC%8F)
+        - [Host, port, password and database](#host-port-password-and-database)
+        - [Getting input from other programs](#getting-input-from-other-programs)
+      - [Continuously run the same command(重复执行命令)](#continuously-run-the-same-command%E9%87%8D%E5%A4%8D%E6%89%A7%E8%A1%8C%E5%91%BD%E4%BB%A4)
+      - [Mass insertion of data using redis-cli(大量插入数据)](#mass-insertion-of-data-using-redis-cli%E5%A4%A7%E9%87%8F%E6%8F%92%E5%85%A5%E6%95%B0%E6%8D%AE)
+      - [CSV output](#csv-output)
+      - [Running Lua scripts (使用Lua脚本)](#running-lua-scripts-%E4%BD%BF%E7%94%A8lua%E8%84%9A%E6%9C%AC)
+    - [Interactive mode(交互模式)](#interactive-mode%E4%BA%A4%E4%BA%92%E6%A8%A1%E5%BC%8F)
+      - [连接进入到redis server](#%E8%BF%9E%E6%8E%A5%E8%BF%9B%E5%85%A5%E5%88%B0redis-server)
+      - [redis相关操作](#redis%E7%9B%B8%E5%85%B3%E6%93%8D%E4%BD%9C)
+      - [Handling connections and reconnections(处理或重连接)](#handling-connections-and-reconnections%E5%A4%84%E7%90%86%E6%88%96%E9%87%8D%E8%BF%9E%E6%8E%A5)
+      - [Editing, history and completion](#editing-history-and-completion)
+    - [Special modes of operation](#special-modes-of-operation)
+
+<!-- /TOC -->
+
+# Redis Admin
 
 ## redis-cli
 

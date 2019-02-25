@@ -1,4 +1,6 @@
-# Redis安装教程
+<a href="../README.md"> README </a>
+
+# 1. Redis安装教程
 
 * 安装redis为CentOs服务并且开机启动所有命令
 
