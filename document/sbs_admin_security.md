@@ -1,7 +1,5 @@
 <a href="../README.md">README</a>
 
-
-
 # Redis Security
 
 本章将站在Redis的观点上对安全问题的各个方面进行讲解:Redis提供的访问控制，代码安全性问题，可以通过选择恶意输入和其他类似主题从外部触发的攻击。
