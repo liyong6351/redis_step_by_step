@@ -25,4 +25,6 @@
 
 ## 6.<a href="document/sbs_admin_encryption.md">Encryption</a>
 
+用户高并发登入登出，下单，支付等场景如何解决用户的体验和一致性问题
+
 ## 7.<a href="document/sbs_admin_signals.md">signals</a>
