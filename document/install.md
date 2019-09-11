@@ -12,7 +12,7 @@ tar -zxvf redis-5.0.3.tar.gz
 cd redis-5.0.3
 yum install gcc
 make MALLOC=libc
-cp /usr/local/redis-4.0.2/utils/redis_init_script /etc/init.d/redis
+cp /usr/local/redis-5.0.3/utils/redis_init_script /etc/init.d/redis
 ln -s  src/redis-server /usr/local/bin/redis-server
 ln -s  src/redis-cli /usr/local/bin/redis-cli
 ln -s  src/redis-sentinel /usr/local/bin/redis-sentinel
